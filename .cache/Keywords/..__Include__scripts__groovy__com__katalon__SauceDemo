@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "60C9CFB78044D5658F1A749AB27AAFD5",
+  "keywordClasses": [
+    {
+      "name": "com.katalon.SauceDemo",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

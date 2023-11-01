@@ -3,10 +3,10 @@
    <description></description>
    <name>test</name>
    <tag></tag>
-   <UUID>c84650ee-cb5e-4a36-b244-5c4df96b316d</UUID>
+   <UUID>104daa40-5301-47d2-b2c8-c04d6da6f9ed</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/loantran/Downloads/healthcare-tests/test.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\fathi\Katalon Studio\Test Sauce Demo\test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +25,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>GENERIC</type>
+   <timeStampInProperties>true</timeStampInProperties>
+   <type>WEBUI</type>
 </Project>
